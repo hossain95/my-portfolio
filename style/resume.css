@@ -1,0 +1,58 @@
+.resume
+{
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.resume-header
+{
+    background-color: #30336b;
+    color: white;
+}
+.address span, .mobile span, .email span
+{
+    font-weight: bolder;
+}
+.image img
+{
+    width: 200px;
+    height: 200px;
+}
+.academic-header
+{
+    height: 30px;
+    width: 100%;
+    background-color: #6b727b;
+    color: white;
+}
+.online-judge-header
+{
+    height: 30px;
+    width: 100%;
+    background-color: #6b727b;
+    color: white;
+}
+.training-header
+{
+    height: 30px;
+    width: 100%;
+    background-color: #6b727b;
+    color: white;
+}
+.skills-header
+{
+    height: 30px;
+    width: 100%;
+    background-color: #6b727b;
+    color: white;
+}
+.card p span
+{
+    font-weight: bold;
+}
+.experience-header
+{
+    height: 30px;
+    width: 100%;
+    background-color: #6b727b;
+    color: white;
+}
